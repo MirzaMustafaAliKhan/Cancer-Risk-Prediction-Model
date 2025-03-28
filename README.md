@@ -1,25 +1,23 @@
 # Cancer-Risk-Prediction-Model
- This project is part of a System Analysis and Design assignment where I designed, built, and deployed a cancer risk prediction API using machine learning and FastAPI and deployed it on AWS Bean Stalk
+This project is part of a System Analysis and Design assignment where I designed, built, and deployed a cancer risk prediction API using machine learning and FastAPI and deployed it on AWS Bean Stalk
 
 ## Prediction Task: Risk Modeling
-The goal is to model cancer risk using logistic regression and random forest classifiers. Given diagnostic features from breast mass images, the API predicts the likelihood of cancer (malignant vs. benign) with a probability score.
+The goal is to predict cancer risk using logistic regression and random forest classifiers. Given diagnostic features from breast mass data, the API predicts the likelihood of cancer (malignant vs. benign) with a probability score from 0 to 1.
 
 ## Dataset
 - **Name**: Wisconsin Diagnostic Breast Cancer (WDBC)
 - **Source**: UCI Machine Learning Repository
-- **Samples**: 569
 - **Features**: 30 numeric diagnostic attributes
 - **Target**: Binary label (0 = benign, 1 = malignant)
 
 ## Target Users
 - Medical professionals and health researchers
-- Health-tech developers building clinical tools
-- Hospitals or clinics integrating risk prediction into diagnostic systems
+- Hospitals or clinics using risk prediction into diagnostic systems
 
 ## Expected Usage
-- **Estimated Requests**: ~500 per day
-- **Usage Pattern**: Real-time single prediction requests
-- **Requirements**: Fast responses, secure API, easy integration via JSON
+- **Estimated Requests**: approx. 500 per day
+- **Usage Pattern**: Real-time data collected single prediction requests
+- **Requirements**: Fast responses, secure API, effortlessly via JSON
   
 ## Model Development
 Two classification models were trained and evaluated:
