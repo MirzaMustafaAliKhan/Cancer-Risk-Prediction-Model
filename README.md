@@ -5,7 +5,7 @@ This project is part of a System Analysis and Design assignment where I designed
 The goal is to predict cancer risk using logistic regression and random forest classifiers. Given diagnostic features from breast mass data, the API predicts the likelihood of cancer (malignant vs. benign) with a probability score from 0 to 1.
 
 ## Dataset
-- **Source**: UCI Machine Learning Repository
+- **Source**: Brest Cancer Dataset from Kagel [https://www.kaggle.com/datasets/erdemtaha/cancer-data]
 - **Features**: 30 numeric diagnostic attributes
 - **Target**: Binary label (0 = benign, 1 = malignant)
 
