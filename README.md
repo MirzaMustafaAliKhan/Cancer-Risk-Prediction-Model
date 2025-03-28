@@ -32,7 +32,7 @@ Two classification models were trained and evaluated:
 - **Brier Score**: `0.02`
 
 ## Author
-## Mirza Mustafa Ali Khan 
+**Mirza Mustafa Ali Khan**
 - **Docker Hub** (mirzamustafaalikhan/cancer-risk-model) 
 - **LinkedIn** (www.linkedin.com/in/mirza-mustafa-ali-khan-711043267)
 - **Docker Image** [docker pull mirzamustafaalikhan/cancer-risk-model:latest]
