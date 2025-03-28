@@ -23,7 +23,7 @@ Two classification models were trained and evaluated:
 - **Logistic Regression** (interpretable, fast)
 - **Random Forest** (higher accuracy, better generalization)
 
-### Final Model Metrics:
+### Final Averaged Model Metrics:
 - **F1-Score**: `0.9703`
 - **Precision**: `0.9878`
 - **Recall**: `0.9535`
