@@ -30,3 +30,10 @@ Two classification models were trained and evaluated:
 - **ROC-AUC**: `0.9986`
 - **Log Loss**: `0.0793`
 - **Brier Score**: `0.02`
+
+## Author
+## Mirza Mustafa Ali Khan 
+- **Docker Hub** (mirzamustafaalikhan/cancer-risk-model) 
+- **LinkedIn** (www.linkedin.com/in/mirza-mustafa-ali-khan-711043267)
+- **Docker Image** [docker pull mirzamustafaalikhan/cancer-risk-model:latest]
+- **AWS LINK** [https://ca-central-1.console.aws.amazon.com/elasticbeanstalk/home?region=ca-central-1#/environment/dashboard?environmentId=e-s4ujjswrp6]
